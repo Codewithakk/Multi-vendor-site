@@ -102,7 +102,7 @@ class authControllers {
     }
 
     getUser = async (req, res) => {
-        const { id, role } = req.body;
+        const { id, role } = req;
 
         try {
             if (role === 'admin') {
@@ -118,7 +118,7 @@ class authControllers {
     }
 
     profile_image_upload = async (req, res) => {
-        const { id } = req.body
+        const { id } = req
         const form = formidable({ multiples: true })
         form.parse(req, async (err, _, files) => {
             cloudinary.config({
