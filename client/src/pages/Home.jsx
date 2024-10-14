@@ -18,7 +18,7 @@ const Home = () => {
             <Heders />
             <Banner />
             <div className='my-4'>
-                <Categorys />
+                <Categorys /> 
             </div>
             <div className='py-[45px]'>
                 <FeatureProducts products={products} />
