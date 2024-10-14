@@ -2,7 +2,7 @@
 
 ## Watch Our Video!
 
-[![Multivendor Site](https://img.youtube.com/vi/i8F0o6g3LCU/(https://github.com/user-attachments/assets/44fc04cd-0b68-4b36-9e2c-06fde69b52df))](https://www.youtube.com/watch?v=i8F0o6g3LCU&t)
+[![Multivendor Site](https://img.youtube.com/vi/i8F0o6g3LCU/https://github.com/user-attachments/assets/44fc04cd-0b68-4b36-9e2c-06fde69b52df)](https://www.youtube.com/watch?v=i8F0o6g3LCU&t)
 
 ### Sample Image
 ![Sample Image](https://github.com/user-attachments/assets/44fc04cd-0b68-4b36-9e2c-06fde69b52df)
