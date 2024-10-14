@@ -2,7 +2,7 @@
 
 ## Watch Our Video!
 
-[![Multivendor Site](https://img.youtube.com/vi/0.jpg)](https://www.youtube.com/watch?v=i8F0o6g3LCU&t)
+[![Multivendor Site](https://img.youtube.com/vi/i8F0o6g3LCU/0.jpg)](https://www.youtube.com/watch?v=i8F0o6g3LCU&t)
 
 To get the project running locally, follow these steps:
 
