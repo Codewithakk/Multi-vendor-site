@@ -6,6 +6,10 @@ To get the project running locally, follow these steps:
 
 git clone  https://github.com/Codewithakk/assignment_akshay.git
 
+
+https://www.youtube.com/watch?v=i8F0o6g3LCU
+
+
 ### 2. Client Setup
 
 Navigate to the `client` directory and install the required dependencies:
