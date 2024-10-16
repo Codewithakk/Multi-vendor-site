@@ -13,6 +13,11 @@
   }
 }
 
+@media (max-width: 768px) {
+  .login-image {
+      display: none;
+  }
+}
 
 
 .App-header {
