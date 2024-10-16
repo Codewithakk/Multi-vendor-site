@@ -1,10 +1,16 @@
 ## How to Run the Project
 
+## Watch Our Video!
+
+[![Multivendor Site](https://img.youtube.com/vi/i8F0o6g3LCU/0.jpg)](https://www.youtube.com/watch?v=i8F0o6g3LCU&t)
+
 To get the project running locally, follow these steps:
 
 ### 1. Clone the Project 
 
-git clone  https://github.com/Codewithakk/assignment_akshay.git
+
+
+
 
 ### 2. Client Setup
 
