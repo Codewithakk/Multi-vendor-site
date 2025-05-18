@@ -8,7 +8,7 @@ const { mongo: { ObjectId } } = require('mongoose')
 const { responseReturn } = require('../../utiles/response')
 
 const moment = require('moment')
-const stripe = require('stripe')(process.env.stripe_key)
+const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY)
 
 class orderController {
 
