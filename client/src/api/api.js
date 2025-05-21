@@ -1,8 +1,8 @@
 import axios from 'axios'
-  const local = 'http://localhost:5000'
-//const production = 'https://multi-vendor-site.onrender.com'
+// const local = 'http://localhost:5000'
+const production = 'https://multi-vendor-site-backend.onrender.com'
 const api = axios.create({
-    baseURL: `${local}/api`,
-    withCredentials : true
+  baseURL: `${production}/api`,
+  withCredentials: true
 })
 export default api
