@@ -13,7 +13,7 @@ const socket = require('socket.io')
 const server = http.createServer(app)
 
 app.use(cors({
-    origin: ['https://multivendorakshay.netlify.app', 'https://multivendorsites.netlify.app' , 'https://multivendorsiteseller.netlify.app' , 'https://sellerakshay.netlify.app', 'http://localhost:3001','http://localhost:3000'],
+    origin: ['https://multivendorakshay.netlify.app', 'https://multivendorsites.netlify.app', 'https://multivendorsiteseller.netlify.app', 'https://sellerakshay.netlify.app', 'http://localhost:3001', 'http://localhost:3000', 'https://multi-vendor-site.onrender.com'],
     credentials: true
 }))
 
